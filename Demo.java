@@ -34,6 +34,13 @@ git commit -m "m stand for message - in double quotes you should right message t
 changes committed on local repository. changes are not committed on central repository.
 
 commit to central repository:
+============================
+git remote add origin https://github.com/Parmodprajapati/git-command.git
+or
+git remote add <repo-url> - required only first time
+
+move changes local to central Repo
+git push -u origin main
 
 
 

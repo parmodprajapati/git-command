@@ -4,7 +4,8 @@ public class GitCommands{
 /*
 git init
 -----------
-Running git init in an existing repository is safe. It will not overwrite things that are already there. The primary reason for rerunning git init is to pick up newly added templates
+Running git init in an existing repository is safe. It will not overwrite things that are already there. 
+The primary reason for rerunning git init is to pick up newly added templates
 
 git status
 ----------
